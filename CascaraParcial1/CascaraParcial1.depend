@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1525802812 source:c:\users\agust\desktop\c\cascaraparcial1\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+
+1525805075 c:\users\agust\desktop\c\cascaraparcial1\funciones.h
+
+1525805175 source:c:\users\agust\desktop\c\cascaraparcial1\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1525811962 source:c:\users\andromeda\desktop\funciones-para-parcial-master\cascaraparcial1\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+
+1525811846 c:\users\andromeda\desktop\funciones-para-parcial-master\cascaraparcial1\funciones.h
+
+1525810419 source:c:\users\andromeda\desktop\funciones-para-parcial-master\cascaraparcial1\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1525840575 source:c:\users\agust\desktop\funciones-para-parcial-master\funciones-para-parcial-master\cascaraparcial1\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funciones.h"
+
+1525841307 c:\users\agust\desktop\funciones-para-parcial-master\funciones-para-parcial-master\cascaraparcial1\funciones.h
+
+1525840592 source:c:\users\agust\desktop\funciones-para-parcial-master\funciones-para-parcial-master\cascaraparcial1\funciones.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+

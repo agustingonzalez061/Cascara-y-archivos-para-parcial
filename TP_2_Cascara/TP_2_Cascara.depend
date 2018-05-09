@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1525475954 source:c:\users\agust\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1525475954 c:\users\agust\desktop\tp_2_cascara\funciones.h
+
+1525477729 source:c:\users\agust\desktop\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1525813235 source:c:\users\agust\desktop\funciones-para-parcial-master\funciones-para-parcial-master\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1525813235 c:\users\agust\desktop\funciones-para-parcial-master\funciones-para-parcial-master\tp_2_cascara\funciones.h
+
+1525813235 source:c:\users\agust\desktop\funciones-para-parcial-master\funciones-para-parcial-master\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
